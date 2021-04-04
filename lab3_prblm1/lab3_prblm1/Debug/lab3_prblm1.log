@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\skump\source\repos\an1_info\algortmica_grafelor\lab3_prblm1\lab3_prblm1\main.cpp(16,2): warning C4091: 'typedef ': ignored on left of 'nod' when no variable is declared
+  lab3_prblm1.vcxproj -> C:\Users\skump\source\repos\an1_info\algortmica_grafelor\lab3_prblm1\Debug\lab3_prblm1.exe
